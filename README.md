@@ -1,3 +1,10 @@
+#0
+I present to you: 0! All the fun of merging without the drawbacks of losing!
+
+Also don't read the text below -- some idiot wrote it.
+
+-----------
+
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
