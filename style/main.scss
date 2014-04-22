@@ -414,11 +414,12 @@ hr {
   transition-property: transform;
 
   $base: 2;
-  $exponent: 1;
-  $limit: 11;
+  $exponent: 1; // not quite right but whatever
+  $limit: 12;
 
-  // Colors for all 11 states, false = no special color
-  $special-colors: false false, // 2
+  // Colors for all 12 states, false = no special color
+  $special-colors: false false, // 0
+                   false false, // 2
                    false false, // 4
                    #f78e48 true, // 8
                    #fc5e2e true, // 16
